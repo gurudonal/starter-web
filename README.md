@@ -6,4 +6,4 @@
 
 ## how to contribute
 
-## How to deploy?
+## How deployment works?
