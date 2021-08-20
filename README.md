@@ -1,9 +1,9 @@
 # Web project
 
-##introduction
+## introduction
 
-##purpose
+## purpose
 
-##how to contribute
+## how to contribute
 
-##How to deploy?
+## How to deploy?
