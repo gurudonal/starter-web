@@ -8,3 +8,4 @@ This is example to show different parts of Git repo and various cmds using a web
 ## how to contribute
 ## How to deploy?
 
+This is a simple webpage. deployment can be on any web server or even local file system. 
