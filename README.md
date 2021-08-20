@@ -1,11 +1,9 @@
-This is simple website project for showing how to use Git and GitHub together. 
-# Web page
-## introduction
+# Web project
 
-This is example to show different parts of Git repo and various cmds using a web project.
+##introduction
 
-## purpose
-## how to contribute
-## How to deploy?
+##purpose
 
-This is a simple webpage. deployment can be on any web server or even local file system. 
+##how to contribute
+
+##How to deploy?
