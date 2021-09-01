@@ -2,3 +2,4 @@ him.txt
 her.txt
 *.log
 *log/
+*.orig
